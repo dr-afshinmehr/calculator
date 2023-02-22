@@ -1,5 +1,5 @@
 # calculator
-calculator operators in PYTHON
+calculator operators in PYTHON:
 Sum Function
 Subtraction Function
 Multiplication Function
