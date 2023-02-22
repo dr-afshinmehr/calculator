@@ -1,0 +1,10 @@
+# Define SUM Function
+def sum_func(num1, num2):
+  # Set variable for reuse
+  res = num1 + num2
+  return res
+# Store result in variable to reuse
+# You can replace your numbers
+result = sum_func(20, 18)
+# Show result
+print(result)
